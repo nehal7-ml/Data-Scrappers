@@ -1,2 +1,2 @@
 # Data-Scrappers
-Hols codes for various Data scrapping projects
+Holds codes for various Data scrapping projects
