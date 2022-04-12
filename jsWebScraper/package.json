@@ -1,0 +1,16 @@
+{
+  "name": "ebay_data_scrapper",
+  "version": "1.0.0",
+  "description": "Scrape data from a Ebay Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Nehal7-ml",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "*",
+    "puppeteer": "^13.5.2"
+  }
+}
